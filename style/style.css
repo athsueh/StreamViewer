@@ -1,0 +1,54 @@
+body {
+    background: #2980b9;
+    color: #FFF;
+    font-family: Helvetica;
+    text-align: left;
+    margin: 20px;
+}
+
+.search-bar {
+    margin: 20px;
+}
+
+.search-bar input {
+    max-width: 128px;
+}
+
+.embed-responsive-item {
+    width: 1024px;
+    height: 576px;
+}
+
+.video-detail .details {
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 700px;
+}
+
+.list-group-item {
+    cursor: pointer;
+    max-width: 200px;
+    float: left;
+    overflow: hidden;
+    margin: 5px;
+    text-align: center;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.media-heading {
+    overflow: hidden;
+}
+
+.logBtn {
+    margin: 20px;
+}
+.logBtn span {
+    margin-left: 10px;
+    vertical-align: middle;  
+}
